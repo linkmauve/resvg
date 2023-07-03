@@ -15,7 +15,7 @@ workspace = "../.."
 fontdb = { version = "0.14", default-features = false }
 kurbo = "0.9" # Bezier curves utils for text-on-path
 log = "0.4"
-rustybuzz = "0.7"
+rustybuzz = "0.8"
 unicode-bidi = "0.3"
 unicode-script = "0.5"
 unicode-vo = "0.1"
